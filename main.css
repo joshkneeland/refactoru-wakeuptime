@@ -1,0 +1,92 @@
+/*DEFAULT TAGS*/
+
+/*CLASS TAGS*/
+
+.outer-shell {
+	background-color: #867970;
+	height: 300px;
+	width: 900px;
+	margin: 200px auto 0 auto;
+	position: relative;
+}
+
+.inner-shell {
+	background-color: #000;
+	position: absolute;
+	margin: 0 auto;
+	top: 30px;
+	left: 65px;
+	height: 240px;
+	width: 775px;
+}
+
+.clock-screen {
+	background-color: #8C1717;
+	position: absolute;
+	top: 25px;
+	left: 107px;
+	height: 170px;
+	width: 567px;
+}
+
+.clock-indicator {
+	border-radius: 100%;
+	position: absolute;
+	background-color: #FF0000;
+	width: 17px;
+	height: 17px;
+	bottom: 52px;
+	left: 114px;
+}
+
+.clock-text {
+	margin: -8px 0 0 90px;
+	font-size: 160px;
+	color: #FF0000;
+}
+
+.label-PM {
+	color: #FFF;
+	position: absolute;
+	left: 125px;
+	top: 55px;
+	font-size: 24px;
+}
+
+.label-auto {
+	color: #FFF;
+	position: absolute;
+	left: 96px;
+	bottom: 75px;
+	font-size: 24px;
+}
+
+.bottom-AM {
+	color: #FFF;
+	position: absolute;
+	left: 176px;
+	bottom: 40px;
+	margin-right: 25px;
+	font-size: 14px;
+}
+
+.bottom-FM {
+	color: #FFF;
+	position: absolute;
+	left: 176px;
+	padding-right: 55px;
+	bottom: 20px;
+	font-size: 14px;
+}
+
+.push-right {
+	margin-right: 80px;
+}
+
+.push-right-two {
+	margin-right: 20px;
+}
+
+.push-right-three {
+	margin-right: 13px;
+}
